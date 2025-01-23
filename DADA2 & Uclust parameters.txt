@@ -1,0 +1,12 @@
+DADA2 parameters:
+- trimLeft =c(16,24)
+- truncLen=c(320,180)
+- maxEE=c(10,10)
+- trunQ=2
+- rm.phix=TRUE
+- compress=TRUE
+
+Uclust through QIIME:
+default settings unless otherwise stated
+--uclust_max_accepts = 200
+--similarity = 0.9
